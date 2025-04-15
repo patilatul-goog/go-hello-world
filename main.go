@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	// Import the local greeting package using the module path + subdirectory
-	"patilatul-goog/go-hello-world/greeting" // Make sure 'example.com/hello' matches your go.mod module path
+	"github.com/patilatul-goog/go-hello-world/greeting" // Make sure 'example.com/hello' matches your go.mod module path
 
 	// Import a third-party package
 	"rsc.io/quote"

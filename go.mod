@@ -1,4 +1,4 @@
-module patilatul-goog/go-hello-world
+module github.com/patilatul-goog/go-hello-world
 
 go 1.22 // Specify the Go version you are using
 
